@@ -6,5 +6,9 @@ public class OperasiString {
 
         System.out.println(kota);
 
+        char[] uniskaChar = {'u','n','i','s','k','a'};
+        String uniskaString = new String(uniskaChar);
+        System.out.println(uniskaString);
+
     }
 }
